@@ -5,7 +5,7 @@ Selamat datang di website portofolio saya.
 Website ini dibuat untuk memperkenalkan diri, menampilkan informasi tentang saya, serta menampilkan beberapa project yang telah saya kerjakan selama proses pembelajaran di bidang Teknologi Informasi.
 
 ## Live Demo
-Lihat tampilan live website: [https://slicing-web-portofolio-ronasalsabila.netlify.app/](https://portofolio-azma.netlify.app/)
+Lihat tampilan live website: https://portofolio-azma.netlify.app/
 
 ## Tentang Saya
 
