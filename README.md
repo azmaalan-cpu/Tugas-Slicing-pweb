@@ -38,19 +38,6 @@ Website portofolio ini memiliki beberapa bagian utama:
 - **Projects** — Menampilkan project yang telah saya kerjakan.
 - **Contact** — Berisi informasi untuk menghubungi saya.
 
-## Project
-
-Beberapa project yang ditampilkan dalam portofolio ini antara lain:
-
-### 1. Sistem Monitoring Data Pupuk Tani
-Project yang dibuat untuk membantu proses pengelolaan dan monitoring data pupuk di bidang pertanian.
-
-### 2. Sistem Monitoring Data Pupuk Tani — Sistem Basis Data
-Project yang berfokus pada pengelolaan data menggunakan sistem basis data untuk membantu penyimpanan dan pengolahan informasi secara terstruktur.
-
-### 3. Sistem Jual Beli dan Servis Alat Pertanian
-Aplikasi yang dirancang untuk membantu proses jual beli dan servis alat pertanian. Project ini dibuat menggunakan konsep **Pemrograman Berorientasi Objek (PBO)**.
-
 ## Teknologi yang Digunakan
 
 - HTML
