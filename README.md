@@ -29,14 +29,6 @@ Melalui website portofolio ini, saya ingin menampilkan beberapa project yang tel
   <img src="preview/mobile.jpeg" width="35%" alt="Tampilan Mobile">
 </p>
 
-## Tampilan Website
-
-Website ini dirancang agar dapat digunakan pada berbagai ukuran perangkat, baik desktop maupun mobile.
-
-| Desktop | Mobile |
-|:---:|:---:|
-| Tampilan website pada layar komputer/laptop | Tampilan website pada smartphone |
-
 ## Fitur Website
 
 Website portofolio ini memiliki beberapa bagian utama:
